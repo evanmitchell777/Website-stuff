@@ -1,0 +1,10 @@
+aroblue2000 attempted log-on at time:2019-12-16 16:25:44.013198
+not attempted log-on at time:2019-12-17 15:22:53.977097
+not attempted log-on at time:2019-12-17 15:24:21.394763
+sss attempted log-on at time:2019-12-17 15:24:29.594160
+dfg attempted log-on at time:2019-12-17 15:36:31.485615
+dfg attempted log-on at time:2019-12-17 15:37:38.665469
+dfg attempted log-on at time:2019-12-17 15:37:46.825702
+rrrr attempted log-on at time:2019-12-17 15:39:58.573852
+dfgh attempted log-on at time:2019-12-17 15:44:29.321949
+dfgh attempted log-on at time:2019-12-17 15:45:41.035190
