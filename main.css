@@ -1,0 +1,55 @@
+#send-form{
+    text-align: center;
+margin: auto;
+width: 50%;
+padding: 10px;
+background-color: black;
+color: chartreuse;
+font-family: "Courier New", Courier, monospace;
+}
+
+
+#head-title {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: black;
+    color: chartreuse; 
+    font-family: "Courier New", Courier, monospace; 
+}
+
+
+
+.loader {
+    
+    margin: auto;
+    text-align: center;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: 10px solid chartreuse;
+    border-radius: 50%;
+    border-top: 10px solid white;
+    animation: spin .5s linear infinite;
+    transform: translate(100px);
+}
+
+@keyframes spin {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(359deg)
+    }
+}
+
+body {
+    background-color: black;
+}
+
+#constat{
+    color: chartreuse;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}

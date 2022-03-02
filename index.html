@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta >
+    <title>CloudCenter</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <h1 id="head-title">BlueEyesClosed Server</h1>
+    <form method="POST"  action="/loginprim" id="send-form">
+        <h2>Username:</h2>
+        <input type="text" name="Username">
+        <h2>Password:</h2>
+        <input type="text" name="Password">
+        <input class="btn btn-primary" type="submit" vlaue="submit" id=cntr-button>
+    </form>
+    <div class='loader'></div>
+    <h1 id='constat'>Connected...</h1>
+
+</body>
+</html>
